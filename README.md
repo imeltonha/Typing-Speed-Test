@@ -29,5 +29,5 @@
   <li>When the word is done and "Space" is hit, the word should be hightlighted in blue and with gray background. E.g.,
     <img width="200" alt="image" src="https://github.com/user-attachments/assets/f373e1a4-062f-41e2-a389-d139b7f213bd"></li>
   <li>You can not type anything if the time's up.</li>
-  <li>Don't worry your fast typing speed, the words will turn to a new page if you finish all the words shown now.</li>
+  <li>Don't worry about your fast typing speed, the words will turn to a new page if you finish all the words shown now.</li>
 </ol>
