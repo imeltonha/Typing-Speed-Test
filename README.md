@@ -21,7 +21,7 @@
 
 <h3>Other headsup:</h3>
 <ol>
-  <li>Don't hit "Backward" when you typed wrongly becasue the incorrect typed character won;t be accepted, or your previous character should be deleted.</li>
+  <li>Don't hit "Backward" when you typed wrongly becasue the incorrect typed character won't be accepted, or your previous character should be deleted.</li>
   <li>When you type the correct character, the word you are typing will be hightlighted in a green background. E.g.,
     <img width="200" alt="image" src="https://github.com/user-attachments/assets/b2598e4b-d558-4d36-b691-4b80e7500138"></li>
   <li>Otherwise, when you type the incorrect character, the word you are typing will be hightlighted in a red background. E.g.,
